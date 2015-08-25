@@ -1,0 +1,4 @@
+HeaderName /path_to/header.html
+ReadmeName /path_to/footer.html
+IndexOptions +SuppressHTMLPreamble -FancyIndexing
+IndexIgnore .htaccess /path_to
